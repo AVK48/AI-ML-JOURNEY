@@ -1,4 +1,4 @@
-# Pandas Basics (`pandas1.ipynb`)
+# Pandas Basics 
 
 ## Overview
 This notebook is part of my Machine Learning Engineer journey. It serves as an introductory guide and reference for basic data manipulation and analysis using the **Pandas** library in Python. 
